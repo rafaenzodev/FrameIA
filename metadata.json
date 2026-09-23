@@ -1,0 +1,6 @@
+{
+  "name": "FrameSite AI",
+  "description": "Transforme vídeos em sequências de frames em alta qualidade para servir de referência visual na recriação e desenvolvimento de sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
